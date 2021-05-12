@@ -1,0 +1,16 @@
+---
+title: "Research"
+output: html_document
+bibliography: mybibliography.bib 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Published
+
+---
+nocite: '@*'
+---
+
