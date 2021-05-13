@@ -1,3 +1,5 @@
 # LendieFollett.github.io
 
-change here
+---
+permalink: /index.html
+---
