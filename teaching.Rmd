@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Courses Taught at Drake University
+
+### Stat 40: R AND SAS
+This course will cover how to access, structure, format, manipulate and archive data using R and SAS. It will include topics in data inputting, merging files, cleaning data, data summary, descriptive statistics, running procedure statements, graphical presentation of data, loops, if/then statments, and creating your own scripts and functions that extend the language. Prereq.: MATH 020 or equivalent college algebra course, knowledge of basic software tools including word processing, email, Internet browsers, and presentation software.
+
+### Stat 130: PROBABILITY FOR ANALYTICS
+An introduction to the concepts of probability that form the foundation for analytics practice. Descriptive statistics, data visualization, univariate discrete and continuous probability distributions, confidence intervals and one-sample hypotheses testing. Applies R and/or SAS skills.
+
+### Stat 172: GENERALIZED LINEAR MODELS AND DATA MINING
+Data Mining and Generalized Linear Modeling - The emphasis will be on data analysis, statistical assumptions, and diagnostics. Topics include: Linear Regression, Logistic and Probit Regression, CART, Neural Networks, Association Rules, Clustering, Generalized Linear Models, Models for Continuous Data, Models for Binary Data, Models for Polytomous data, Log-Linear Models, Conditional Likelihoods, and Gamma Regression.
+
+### Stat/CS 190: CASE STUDIES IN DATA ANALYTICS (Capstone course)
+In this course, students will apply description, predictive, and prescriptive data analysis methods learned in previous cases to new cases. Students will learn to effectively manage long-term data analysis projects within diverse teams through a complete data analytics project lifecycle and compellingly communicate outcomes through writing and oral presentations which include appropriate use of data visualizations. 
+
