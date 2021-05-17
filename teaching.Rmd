@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Courses Taught at Drake University
+## Courses taught at Drake University
 
 ### Stat 40: R AND SAS
 This course will cover how to access, structure, format, manipulate and archive data using R and SAS. It will include topics in data inputting, merging files, cleaning data, data summary, descriptive statistics, running procedure statements, graphical presentation of data, loops, if/then statments, and creating your own scripts and functions that extend the language. Prereq.: MATH 020 or equivalent college algebra course, knowledge of basic software tools including word processing, email, Internet browsers, and presentation software.

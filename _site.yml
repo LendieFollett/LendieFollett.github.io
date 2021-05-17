@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: " "
+  title: "Lendie Follett, Ph.D."
   left:
     - text: "Home"
       href: index.html
