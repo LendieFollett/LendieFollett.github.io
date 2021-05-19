@@ -8,6 +8,7 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
+
 output:
   html_document:
     theme: darkly
