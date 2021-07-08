@@ -19,4 +19,5 @@ nocite: '@*'
 * ``Consensus Targeting" Follett, Lendie and Heath Henderson
 * ``Heterogeneous Decision Paradigms in Public Land Use Preferences:  A Bayesian Investigation" Follett, Lendie and Brian Vander Naald
 * ``Investigating the short and long-term effects of "nutritional-score" pricing on food pantry selections" Follett, Lendie, Andrew Bryant, and Daniel Beck
-* ``Estimation of Asset Models with Stochastic Volatility and Asymmetric Laplacian Jumps and its Application to Cryptocurrency" Follett, Lendie, Steven Kou, Matthew Stuart, and Cindy Yu
+* ``Inverse Leverage Effect: from Cryptocurrencies to Meme Stocks" Follett, Lendie, Steven Kou, Matthew Stuart, and Cindy Yu
+* ``Targeting Social Safety Net Programs on Human Capabilities" Henderson, Heath and Lendie Follett
