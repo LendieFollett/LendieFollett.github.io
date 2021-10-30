@@ -16,7 +16,9 @@ nocite: '@*'
 
 ## In progress
 * ``Cash and Capabilities: Experimental Evidence from Kenya" Follett, Lendie and Heath Henderson
-* ``Consensus Targeting" Follett, Lendie and Heath Henderson
+* ``A Hybrid Approach to Targeting Social Assistance" Follett, Lendie and Heath Henderson
 * ``Heterogeneous Decision Paradigms in Public Land Use Preferences:  A Bayesian Investigation" Follett, Lendie and Brian Vander Naald
-* ``Investigating the short and long-term effects of "nutritional-score" pricing on food pantry selections" Follett, Lendie, Andrew Bryant, and Daniel Beck
 * ``Estimation of Asset Models with Stochastic Volatility and Asymmetric Laplacian Jumps and its Application to Cryptocurrency" Follett, Lendie, Steven Kou, Matthew Stuart, and Cindy Yu
+* ``Hunger Relief: The Effectiveness of Additional SNAP Benefits During the COVID-19 Pandemic" Follett, Lendie and Andrew Bryant
+
+
