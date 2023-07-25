@@ -17,4 +17,5 @@ nocite: '@*'
 ## In progress
 * ``Cash and Capabilities: Experimental Evidence from Kenya" Follett, Lendie and Heath Henderson
 * ``Inverse Leverage Effect for Cryptocurrencies and Meme Stocks: a Comprehensive Framework" Follett, Lendie, Steven Kou, Matthew Stuart, and Cindy Yu
+* ``Predicting Choice Clusters with Demographics for Food Pantry Clients: One-Size Does Not Fit All"
 * Various projects concerning local food insecurity
